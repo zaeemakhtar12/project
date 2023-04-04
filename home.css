@@ -1,0 +1,18 @@
+.centered
+            .large
+            {
+                font-size: large;
+                text-align: center;
+            }
+
+            .medium
+            {
+                font-size: medium;
+                text-align: center;
+            }
+
+            .small
+            {
+                font-size: small;
+                text-align: center;
+            }

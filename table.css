@@ -1,0 +1,29 @@
+table
+{
+    border: 10px solid rgb(0, 255, 0);
+    text-align: center;
+}
+
+tr
+{
+    height: 50px;
+}
+
+td
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 254, 254);
+    font-size: 22pt;
+    font-family: georgia;
+    width: 400px;
+    text-align: center;
+}
+th
+{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 22pt;
+    font-family: georgia;
+    width: 400px;
+    text-align: center;
+}
